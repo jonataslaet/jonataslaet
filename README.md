@@ -1,6 +1,6 @@
 ## Olá, meu nome é Jonatas Laet. Seja bem-vindo ao meu perfil no github 👋
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas:
 
 <div>
   <a href="https://github.com/jonataslaet">
