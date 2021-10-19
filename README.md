@@ -2,12 +2,6 @@
 
 ### Tecnologias utilizadas:
 
-<div>
-  <a href="https://github.com/jonataslaet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataslaet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaet&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Laet-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Laet-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,6 +13,12 @@
   <img align="center" alt="Laet-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Laet-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Laet-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+<div>
+  <a href="https://github.com/jonataslaet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonataslaet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataslaet&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ###
@@ -36,4 +36,4 @@
 ### Experiência profissional:
 
 - 🔭 Desenvolvedor Full-Stack na Monitora Soluções Tecnológicas (Atual)
-- 🌱 Desenvolvedor Back-End na Infoway/Maida.health (2 anos e 4 meses)
+- 🌱 Desenvolvedor Back-End na Infoway/Maida.health (26/11/2018 -> 05/04/2021)
