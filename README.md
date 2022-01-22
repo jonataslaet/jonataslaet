@@ -35,5 +35,5 @@
 
 ### Experiência profissional:
 
-- 🔭 Desenvolvedor Full-Stack na Monitora Soluções Tecnológicas (Atual)
+- 🔭 Desenvolvedor Full-Stack na Monitora Soluções Tecnológicas (06/04/2021 -> 20/02/2022)
 - 🌱 Desenvolvedor Back-End na Infoway/Maida.health (26/11/2018 -> 05/04/2021)
