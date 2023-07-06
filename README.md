@@ -34,6 +34,7 @@
 ###
 
 ### Experiência profissional:
-- 🔭 Desenvolvedor Full-Stack na Shift (14/02/2022 -> 17/02/2022)
+- 🔭 Desenvolvedor Back-End na Montreal (Em andamento, desde o dia 04/04/2023)
+- 🔭 Desenvolvedor Full-Stack na Shift (14/02/2022 -> 17/02/2023)
 - 🔭 Desenvolvedor Full-Stack na Monitora Soluções Tecnológicas (06/04/2021 -> 20/02/2022)
 - 🌱 Desenvolvedor Back-End na Infoway/Maida.health (26/11/2018 -> 05/04/2021)
